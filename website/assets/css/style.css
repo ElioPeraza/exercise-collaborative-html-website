@@ -1,7 +1,15 @@
-*{
-margin: 0;
-padding: 0;}
+* {
+    margin: 0;
+    padding: 0;
+}
 
-body{
+body {
     background: white;
+}
+
+#hero {
+    background-image: url(../img/bg.jpg);
+    background-repeat: round;
+    background-size: cover;
+    min-height: 400px;
 }
